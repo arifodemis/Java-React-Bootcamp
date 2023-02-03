@@ -1,0 +1,5 @@
+public class UserManager {
+    public void add(User user){
+        System.out.println("Kullanıcı eklendi :"+user.getEmail());
+    }
+}
